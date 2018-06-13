@@ -10,11 +10,14 @@ short term goals:
 add information such as kills, k/d, winrate for each category(solos, duos, squads)//
 
 change the way dom is manipulated from some ugly jQuery to more nice things (like what?)//
+[done! using es6 string templates]
+
 
 refine ui with js libraries such as granim.js and particles.js//
 
 refine ui with css//
 
+put in some nice graphs with chart.js
 
 
 long term goals:
