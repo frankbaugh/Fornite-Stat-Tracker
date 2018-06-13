@@ -17,7 +17,7 @@ refine ui with js libraries such as granim.js and particles.js//
 
 refine ui with css//
 
-put in some nice graphs with chart.js
+put in some nice graphs with chartist
 
 
 long term goals:
